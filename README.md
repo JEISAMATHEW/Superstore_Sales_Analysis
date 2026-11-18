@@ -1,4 +1,4 @@
-<img width="1909" height="971" alt="image" src="https://github.com/user-attachments/assets/46fabc63-5abf-4adf-88e4-f2ec44c9b84e" /># 🛒 Superstore Sales Data Analysis with Basic Python
+# 🛒 Superstore Sales Data Analysis with Basic Python
 
 ## 📌 Project Overview
 
