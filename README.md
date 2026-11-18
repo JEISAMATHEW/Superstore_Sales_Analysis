@@ -169,6 +169,14 @@ python-sales-data-analyzer/
 | `Video.mp4` | Walkthrough of the project |
 | `README.md` | Project overview, objectives, Python concepts, insights, and run instructions |
 
+
+## 🖼️ Screenshots
+
+**Load the dataset**
+
+![Image](Image.png)
+
+
 ## ▶️ How to Run
 
 1. Open the Superstore dataset on Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
